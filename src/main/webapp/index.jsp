@@ -1,55 +1,47 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>BIODATA</title>
 </head>
-<style>
-.container {
-
-  width: 400px;
-  height:650px;
-  margin-left: 75px;
-margin-top:10px;
-}
-
-h1{
-font-size:35px;
-color: blue;
-    margin-top: -601px;
-
-    width: 500px;
-}
-
-h2{
-color:red;
-}
-h3{
- color:yellow;
-  }
-h4{
- font-size:35px;
-  color:green;
-  }
-image{
-width:1000px;
-height:400px;
-}
-</style>
-<body>
-<div class="imgcontainer ">
-<img src="https://www.travelandleisureindia.in/wp-content/uploads/2020/05/Feature-image-Tirumala.jpg" width="1500" height="700">
-<div class="container">
-<h1>WELCOME TO TIRUPATHI TIRUMALA DEVASTHANAM</h1>
-
-<br>
-<h2>It is one of the top historical place in "INDIA"</h2>
-
-<h2>It is located at ANDHRA PRADESH STATE</h2>
-<h2>Please visit NATURE and Enjoy the NATURE</h2>
-<h3>Thank You Guys who are saw this page </h3>
-<h4>MUKTHA VIKASH</h4>
-</div>
-</div>
+<marquee>
+<body bgcolor="#FCFFC2"><font color="black"><font size=30>Biodata</font>
+</marquee>
+<hr>
+<body><font size=5><font color="black">
+Nama      :Rakha Febryza Rasendriya<br>
+Nama Ayah :Agus Supriyanto<br>
+Nama Ibu  :Feliya Umumiyah<br>
+TTL       :Temanggung, 14 Februari 2005<br>
+E-mail    :jagadsatya1103@gmail.com<br>
+Agama     :Islam<br>
+Sekolah   :SMK Telkom Purwokerto<br>
+<table style="width:50%"border=3>
+<tr>
+<th>semester</th>
+<th>rata-rata</th>
+</tr>
+<tr>
+<th>1</th>
+<th>88</th>
+</tr>
+<tr>
+<th>2</th>
+<th>87</th>
+</tr>
+<tr>
+<th>3</th>
+<th>87</th>
+</tr>
+<tr>
+<th>4</th>
+<th>86</th>
+</tr>
+<tr>
+<th>5</th>
+<th>88</th>
+</tr>
+<tr>
+<th>6</th>
+<th>87</th>
+</tr>
 </body>
 </html>
-
